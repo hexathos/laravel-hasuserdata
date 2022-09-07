@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hexathos\\Traits": "src/"
+            "Hexathos\\Traits\\": "src/"
         }
     },
     "minimum-stability": "stable"
