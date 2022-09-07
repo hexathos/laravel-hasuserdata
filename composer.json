@@ -1,7 +1,7 @@
 {
     "name": "hexathos/laravel-hasuserdata",
     "description": "Autofills updated_by, created_by, updated_at and created_at",
-    "keywords": ["laravel", "eloquent", "userdata", "createdby","udatedby", "database", "model"],
+    "keywords": ["laravel", "eloquent", "userdata", "createdby","updatedby", "database", "model"],
     "license": "MIT",
     "authors": [
         {

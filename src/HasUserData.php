@@ -1,5 +1,5 @@
 <?php 
-namespace Hexathos\Traits\HasUserData;
+namespace Hexathos\Traits;
 
 use Carbon\Carbon;
 
