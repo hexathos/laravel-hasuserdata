@@ -1,0 +1,22 @@
+{
+    "name": "hexathos/hasuserdata",
+    "description": "Autofills updated_by, created_by, updated_at and created_at",
+    "keywords": ["laravel", "eloquent", "userdata", "createdby","udatedby", "database", "model"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rainer Bendig",
+            "email": "hexathos@mailbox.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/database": ">=4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hexathos\\Traits\\HasUserData\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

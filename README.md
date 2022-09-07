@@ -1,1 +1,2 @@
-# laravel-hasuserdata
+WIP
+Missing migrations
