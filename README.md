@@ -13,3 +13,16 @@ Require the package:
 
 Create a migration that adds created_by and updated_by fields to your models table
 
+Include the Namespace in your Model and add the trait  
+
+```
+namespace App\Models;
+
+use Hexathos\Traits\HasUserData;
+
+/* .snipped. */
+
+use HasUserData;
+```
+
+That's it.
